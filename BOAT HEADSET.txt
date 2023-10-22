@@ -1,0 +1,68 @@
+ Tax Invoice
+
+----------------------------------------
+         Original for Recipient
+Contact# 9961188086
+Relationship ID: 9961188086
+----------------------------------------
+SREEJITH P P 
+ID: 60919104
+----------------------------------------
+Place of Supply State Code: 32 KL
+Customer Type : URD
+Supply State GSTN Number:32AABCR1718E1ZY
+----------------------------------------
+ItemName                Qty     Amt(Rs)
+                HSN/SAC
+----------------------------------------
+boAt TWS AD 100         1EA      899.00 
+ EAN#:8905650013108 85183000.0
+
+BALANCE DUE                   899.00
+
+CASH                          899.00
+
+Items Purchased = 1
+          GST RECEIPT SUMMARY
+----------------------------------------
+HSN/SAC Tax  Taxable   Tax        Total
+        Rate  Amount  Amount     Amount
+----------------------------------------
+85183000.0  761.86    137.14      899.00
+CGST        9.00%     68.57
+CESS        0.00%      0.00
+SGST        9.00%     68.57
+========================================
+TOTAL:      761.86    137.14      899.00
+========================================
+
+               THANK YOU
+C#60919104     Dt: 22/10/2023 09:58:48
+S#TT52         Txn#2          R#149     
+PaymentRefNo#TT52149000222102023
+Tax Invoice#TT5214923063194
+----------------------------------------
+ ----------------------------------------
+DIGITAL ASSIST
+YOUR HAPPINESS IS OUR PRIORITY:)
+If not happy,we will make it right.
+Call:1800 889 1044
+Email:reliancedigital@ril.com
+----------------------------------------
+AMOUNT INCLUSIVE OF APPLICABLE TAXES
+goods will be delivered only after the
+cheque realization.
+----------------------------------------
+GSTN #: 32AABCR1718E1ZY
+Please refer to our  Website link
+https://relianceretail.com/privacy-policy.html
+for Privacy Policy
+“Dynamic Quick Response (QR) code is made
+ available to the Recipient through a digital display”
+----------------------------------------
+          TT52149000222102023
+              1.0.2.3 : OK
+
+
+
+----------------------------------------
