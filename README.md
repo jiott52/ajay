@@ -1,3 +1,1 @@
-# jio
-#store 
-#pallimukku
+# jio#store 
